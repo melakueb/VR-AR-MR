@@ -56,6 +56,8 @@ Brief overview of the project goals and concept.
 **Artifacts:**
 - Images / screenshots  
 - Descriptions
+
+
 **Reflection:**
 - What I learned  
 - Challenges encountered  
