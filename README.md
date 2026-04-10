@@ -45,7 +45,7 @@ This portfolio may include work created using:
 
 ## Project & Assignment Index
 
-# VR Project 1: Napa Valley AR Knick-Knack
+# AR Project 1: Napa Valley AR Knick-Knack
 
 ## Description
 This project is an **Augmented Reality knick-knack** built using Unity and Vuforia. The application displays a small 3D vineyard-themed scene on top of a tracked merge cube when viewed through a webcam.
@@ -197,3 +197,34 @@ AI assistance was also used to troubleshoot Unity setup issues and help understa
 
 Classmates were also helpful in discussing debugging approaches with the MergeCubes.
 
+---
+
+# VR Partner Presentation: VR Surgical Simulation Suite (VR3S)
+[Partner Portfolio Link](https://sites.google.com/view/fareenak-portfolio/project-page)
+
+_What is the purpose of this VR/AR/MR application?_
+We chose Cincinnati Children’s Hospital’s Virtual Reality Surgical Simulation (VR3S). It is a real world use of VR with real impact. Instead of using VR for gaming or entertainment, this system is being used to help surgeons plan surgeries for babies born with congenital heart defects. It combines medicine, 3D modeling, multiplayer VR, and global collaboration into one system. It basically creates a digital twin of a patient’s heart, and surgeons can step inside it in VR before the real surgery even happens. The project even won Unity’s 2024 Unity for Humanity Grant.
+Who are the users that this VR/AR/MR application was made for?  Experts, general public, children, patients, mechanics, athletes+trainers...?  
+While surgeons are the main users it can also help patients, parents, trainees, global medical teams, and medical students.
+Features/Tasks: What can people do using the VR/AR/MR application?  Show some examples with images and/or videos? 
+Using VR3S, surgeons can take CT or MRI scans and turn them into a 3D digital twin of the patient’s heart, which they can then explore in virtual reality. Instead of only looking at flat 2D scan slices, they are able to rotate the heart, zoom in on different structures, and even step inside the anatomy in VR to better understand the exact shape of the defect.
+One of the most advanced features is the ability to place virtual valves, baffles, and other medical devices directly into the heart model so surgeons can test different surgical approaches before the real procedure. The system also supports multiuser collaboration, which means surgeons in different countries can join the same virtual space and work together on a case in real time. On top of that, the platform includes real-time multilingual translation, which makes global collaboration much easier and supports the project’s larger goal of improving heart surgery outcomes worldwide.
+
+_Comment on the design and implementation choices_
+The design and implementation choices for this project strongly support its goal of improving surgical planning and collaboration. Using Unity is an effective choice because it supports real-time 3D rendering, multiplayer networking, and immersive interaction, all of which are essential for a VR-based medical application. Important actions such as launching a VR session, sharing a case, editing sessions, and uploading models are clearly labeled and easy to locate. The case creation screen is especially strong from a UX standpoint because it organizes the workflow into clear sections, such as preview, 3D model files, and save actions, making the process intuitive for users navigating complex medical data. These design choices are effective because surgeons need an interface that is fast to learn and easy to use in high-stakes environments. The real-time rendering of patient anatomy, combined with a structured and user-friendly interface, allows medical teams to review cases and plan surgeries efficiently.
+Technology- what device is used for this application to achieve VR/AR/MR experiences?  Is this a good choice and are there any downsides?
+The project uses a Unity based VR environment to create an immersive experience accessed through VR headset. They leverage cross-sectional imaging by inputting data from CT or MRI scans to create 3D renders from them. This allows for surgeons to experience patient anatomy in a 3D space, which can help improve their ability to understand how to move forward more efficiently. In addition, the platform supports multiplayer networking and Azure service integration, which enables real-time collaboration between medical teams across different locations and supports secure cloud-based data management. The main downsides to using tech like this is the cost to access VR hardware, install compatible software, train personnel, and ensure patient data security. These barriers make the tech less accessible to smaller hospitals and hospitals with less resources, which conflicts with one of the goals of the project being trying to make the system available globally. 
+Visual experience- how are visuals presented to the user?  is realism a goal?  Does this application achieve its goals? 
+Realism is definitely a major goal to a project like this, as it must prioritize medical accuracy and spatial precision. The digital 3D render must reflect the exact patient anatomy since the goal is to leverage the render to plan surgical procedures for the patient. One Project Lead shared that the platform successfully achieved this, and that surgeons are able to explore the heart of a patient at every angle and interact with it real time.
+
+_Interaction- how can users interact with the content?  Are these interactions effective?_
+Users use VR headsets to view and controllers to navigate, and they can collaborate with others. They can manipulate the 3D heart model by rotating, moving it around, zooming, viewing internal structures, and placing surgical plans onto the anatomy. These actions are effective in achieving the goal of viewing patient anatomy and planning surgery ahead of time. The collaborative component is also very effective in that it allows experts from different hospitals and locations to work together on the same patient case. 
+
+_What are the limitations of this design- what can't someone do with this VR/AR/MR application?  What are its limitations?  What should the developers of this tool do next?_ 
+Right now, VR3S is only really useful in hospitals that already have access to high-quality CT or MRI imaging, since the entire experience depends on creating an accurate 3D digital twin of the patient’s heart. It also depends on hospitals having VR headsets, reliable internet for global collaboration, and staff who are trained to use the system effectively. Another limitation is that the platform is still focused mostly on congenital heart surgery, so its use cases are narrower than other medical simulation tools.
+We think the next best step for the developers would be to make lower-cost versions so hospitals around the world can access the same technology. It would also be helpful to show and improve real-time blood flow and tissue simulation, since that would make the planning even more realistic. It would also be really useful to expand the system into other types of surgeries, improve haptic feedback, and create easier training modes for medical students and residents.
+
+_Links:_
+[Cincinnati Children’s Virtual Reality Project Wins Humanity Grant from Software Development Platform Giant](https://www.cincinnatichildrens.org/news/release/2024/unity-grant)
+[VR3S Overview](https://www.youtube.com/watch?v=ItE_NS9wFx8)
+[VR Surgical Simulation Suite (VR3S) | Andy DiLallo](https://www.andydilallo.com/vr3s/)
