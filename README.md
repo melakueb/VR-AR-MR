@@ -240,7 +240,9 @@ The goal of the Langsam 418 space is to support collaborative work and interacti
 [Langsam418 Group Repo](https://github.com/kellannd/langsam418-vr)
 Developed by: Kelly Deal, Elshaddai Melaku, Ikran Warsame, Fareena Khan
 
-img src="https://github.com/kellannd/langsam418-vr/blob/main/media/welcome-langsam.png" alt="Welcome" width="372" />## Design
+<img src="https://github.com/kellannd/langsam418-vr/blob/main/media/welcome-langsam.png" alt="Welcome" width="372" />
+
+## Design
 **Room Overview:**
 We revamped our classroom into a stress-free learning space with warm colors, comfy seating, and fun gaming elements. It's designed to feel welcoming and flexible which is perfect for studying solo or hanging out with others.
 
