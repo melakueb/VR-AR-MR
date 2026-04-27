@@ -240,7 +240,7 @@ The goal of the Langsam 418 space is to support collaborative work and interacti
 [Langsam418 Group Repo](https://github.com/kellannd/langsam418-vr)
 Developed by: Kelly Deal, Elshaddai Melaku, Ikran Warsame, Fareena Khan
 
-<img src="https://github.com/kellannd/langsam418-vr/blob/main/media/welcome-langsam.png" alt="Welcome" width="372" />
+<img src="https://github.com/kellannd/langsam418-vr/blob/main/media/welcome-langsam.png" alt="Welcome" width="600" />
 
 ## Design
 **Room Overview:**
@@ -255,15 +255,15 @@ We grabbed assets from Meshy.AI for the fun and more unique stuff (pinball, bean
 ## Accomplishments by Level
 **Level 1:** Furnished the room with comfortable seating (couches & bean bags), warm lighting, and ambient sounds (pinball, music playing from the turntable).
 
-<img src="media/table-chairs.png" alt="Tables and chairs" width="372" /> <img src="media/turntable-and-beanbags.png" alt="Turntable and bean bags" width="300" />
+<img src="https://github.com/kellannd/langsam418-vr/blob/main/media/table-chairs.png" alt="Tables and chairs" width="372" /> <img src="https://github.com/kellannd/langsam418-vr/blob/main/media/turntable-and-beanbags.png" alt="Turntable and bean bags" width="300" />
 
 **Level 2:** Added interactive objects (coffee cups, laptops, notebooks, pencils, plants) with physics and collision detection.
 
-<img src="media/interactable-items.png" alt="Interactable items" width="300" />
+<img src="https://github.com/kellannd/langsam418-vr/blob/main/media/interactable-items.png" alt="Interactable items" width="300" />
 
 **Level 3:** Added four custom avatars of ourselves with idle animations (characters dancing) and interactions (they wave as you walk up to them). The large display has a static image but it also has a moving screensaver as you walk up to it.
 
-<img src="media/avatars-dancing.png" alt="Avatars dancing" width="300" />
+<img src="https://github.com/kellannd/langsam418-vr/blob/main/media/avatars-dancing.png" alt="Avatars dancing" width="300" />
 
 **Level 3 Bonus:** Created custom avatar characters that look like us using AvatarSDK.com.
 | Fareena | Elshaddai | Ikran | Kelly |
@@ -272,11 +272,11 @@ We grabbed assets from Meshy.AI for the fun and more unique stuff (pinball, bean
 
 **Level 4:** Approaching the pinball machine plays sound, the laptop opens as you near it, the turntable's music grows louder or softer with your distance, and walking up to the avatars makes them stop dancing and wave.
 
-<img src="media/pinball-machine.png" alt="Pinball machine" width="300" />
+<img src="https://github.com/kellannd/langsam418-vr/blob/main/media/pinball-machine.png" alt="Pinball machine" width="300" />
 
 **Level 5:** Added a spinning disco ball with fun lighting effects.
 
-<img src="media/disco-ball.png" alt="Disco ball" width="300" />
+<img src="https://github.com/kellannd/langsam418-vr/blob/main/media/disco-ball.png" alt="Disco ball" width="300" />
 
 **Credits**
 - **[Meshy.AI](https://www.meshy.ai):** Orange bean bag, turntable
